@@ -1,0 +1,12 @@
+h2.intro {
+  font-size: larger;
+}
+
+p.intro {
+  font-size: medium;
+  color: grey;
+}
+
+img.intro {
+  border-radius: 20px;
+}
