@@ -1,12 +1,11 @@
-h2.intro {
-  font-size: larger;
-}
-
-p.intro {
+.intro{
   font-size: medium;
-  color: grey;
-}
+  font-weight: normal
+  color: brown;
+  background-color: bisque;
+  }
 
-img.intro {
-  border-radius: 20px;
-}
+  .fancy{
+    font-weight: bolder;
+    color: black;
+  }
