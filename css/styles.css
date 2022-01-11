@@ -2,10 +2,19 @@
   font-size: medium;
   font-weight: normal;
   color: red;
-  background-color: bisque;
   }
 
 .fancy{
   font-weight: bolder;
+  color: black;
+}
+
+.darktheme{
+  background-color: black;
+  color:burlywood;
+}
+
+.lighttheme{
+  background-color: cornflowerblue;
   color: black;
 }
