@@ -8,4 +8,10 @@ $(document).ready(function(){
     $("body").removeClass();
     $("body").addClass("lighttheme");
   });
+
+  $(".clickable").click(function(){
+    $("p").removeClass();
+    $("MyClass").addClass();
+    $(".clickable").addClass("clicked");
+  });
 });

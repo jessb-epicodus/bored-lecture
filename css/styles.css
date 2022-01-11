@@ -4,10 +4,6 @@
   color: red;
   }
 
-.fancy{
-  font-weight: bolder;
-  color: black;
-}
 
 .darktheme{
   background-color: black;
@@ -17,4 +13,28 @@
 .lighttheme{
   background-color: cornflowerblue;
   color: black;
+}
+
+p {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+p:hover {
+  text-decoration: underline;
+}
+
+.clicked {
+  background: yellow;
+}
+
+.fancy{
+  font-weight: bolder;
+  color: black;
+}
+
+.MyClass {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
 }
